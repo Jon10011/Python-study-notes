@@ -44,6 +44,7 @@ print goods_list
 myfunc = lambda x,y:x+y
 print myfunc(1,2)
 "sort(),sorted()"
+#魔法方法
 
 "函数嵌套：外部无法调用"
 def func2():
